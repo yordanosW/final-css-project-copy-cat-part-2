@@ -1,0 +1,126 @@
+*{
+margin: 0;
+padding: 0;
+}
+img{
+    max-width:100%;
+}
+.iphone-15-pro{
+    background-image: url("/images/hero_iphone15pro__i70z9oz3hj2i_medium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color:white;
+}
+.iphone-15-text{
+    padding-top: 80px; 
+    text-align: center;
+
+
+}
+.iphone-15-text h1{
+    font-size:40px
+}
+
+li{
+    color:blue;
+     text-decoration: none;
+     display: inline-block;
+     padding-right: 20px;
+
+}
+.iphone-15{
+    background-image: url("/images/hero_iphone15_announce__uuemlcwczn6u_large.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.anAppleOriginal{
+    background-image: url( "./images/hero_kfm__eggyizk68n8m_medium.jpg" );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+.anAppleOriginalText{
+    text-align: center;
+    color: white;
+    padding-top: 400px;
+}
+
+.appleEvent{
+    background-image: url("./images/promo_apple_event_october__cv09aychoioi_small.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.appleEventText{
+    text-align: center;
+    color: white;
+    padding-top: 350px;
+}
+.watch {
+    background-image: url("./images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+.watchText{
+    text-align: center;
+    color: white;
+    padding-top: 40px; 
+}
+.versionPro{
+    background-image: url("./images/promo_apple_vision_pro__f4v4zp0sum2y_large.jpg");
+    height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.versionProText{
+    text-align: center;
+    color: black;
+    padding-top: 350px;
+}
+.iPad{
+    background-image: url("./images/promo_ipad__fioegapg12qi_large.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.iPadText{
+    text-align: center;
+    color: black;
+    
+}
+.tradeIn{
+    background-image: url("./images/promo_iphone_tradein__bugw15ka691e_large.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.card{
+    background-image: url("./images/tile__cauwwcyyn9hy_large.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.tradeInText, .cardText{
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+}
